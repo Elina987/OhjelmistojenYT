@@ -1,4 +1,4 @@
-# Unittesting ⚙️
+# Unit Testing ⚙️
 This project contains a simple JavaScript module which has the basic arithmetic operations.
 Also includes unit tests written with Mocha and Chai.
 
