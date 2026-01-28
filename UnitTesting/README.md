@@ -4,10 +4,10 @@ Also includes unit tests written with Mocha and Chai.
 
 ## 📄 mylib.js
 The library has the following functions:
-- add (a, b)
-- subtract (a, b)
-- multiply (a, b)
-- divide (a, b)
+➕ add (a, b)
+➖ subtract (a, b)
+✖️ multiply (a, b)
+➗ divide (a, b)
   
 The divide function throws an error if the divisor is 0.
 
