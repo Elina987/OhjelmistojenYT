@@ -4,6 +4,7 @@ Also includes unit tests written with Mocha and Chai.
 
 ## 📄 mylib.js
 The library has the following functions:  
+
 ➕ add (a, b)  
 ➖ subtract (a, b)  
 ✖️ multiply (a, b)  
