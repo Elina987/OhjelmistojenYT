@@ -10,4 +10,4 @@ The project contains:
 
 ## PDF
 The PDF file includes photos of the completed test from Postman and terminal.
-The file: [FILE](IntegrationtestinKuvat.pdf)
+The file: [📄](IntegrationtestinKuvat.pdf)
