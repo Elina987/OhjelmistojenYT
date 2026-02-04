@@ -8,7 +8,7 @@ The project contains:
 - Unit testing
 - Integration testing
 
-## PDF
-The PDF file includes photos of the completed test from Postman and terminal.  
+## Tests
+The PDF file includes photos of the completed tests from Postman and terminal.  
 
 The file: **[📄](IntegrationTestingKuvat.pdf)**
