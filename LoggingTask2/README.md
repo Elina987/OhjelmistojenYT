@@ -59,7 +59,7 @@ example from the combined log:
 Run tests using:  
 ▶️ npm test
 
-Example output: 
+Example output:  
   Counter  
     ✔ should start at 0  
     ✔ should increase by one  
