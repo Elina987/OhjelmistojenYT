@@ -19,7 +19,7 @@ Make sure Node.js is installed:
 ▶️ node -v
 
 Clone the repository  
-Redirect ▶️ cd OhjelmistojenYT/LoggingTask1 
+Change directory ▶️ cd OhjelmistojenYT/LoggingTask1 
 
 Install dependencies  
 ▶️ npm install 
