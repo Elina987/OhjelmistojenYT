@@ -43,8 +43,8 @@ GET /counter-reset
 ## Logging
 The application uses Winston for logging.  
 Logs are written to:
-- logs/combined.log (all logs)
-- logs/error.log (error logs only)
+- logs/combined.log (all logs)  
+- logs/error.log (error logs only)  
 example from the combined log:
 
 {"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T21:12:06.745Z"}  
