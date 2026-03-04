@@ -17,7 +17,7 @@ These are logged using Winston
 -	Mocha 11.7.5
   
 ## Installation
-Make sure you have Node.js
+Make sure you have Node.js  
 Clone the repository and install dependencies:  
 ▶️ npm install
 
