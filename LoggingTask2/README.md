@@ -23,8 +23,8 @@ Clone the repository and install dependencies:
 
 ## Running the Application
 Start the server:  
-▶️ Node src/main.js
-The sever runs at:
+▶️ Node src/main.js  
+The sever runs at:  
 http://localhost:3000
 
 ## Logging
