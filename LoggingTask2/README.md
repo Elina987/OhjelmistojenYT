@@ -60,9 +60,9 @@ Run tests using:
 ▶️ npm test
 
 Example output: 
-  Counter
-    ✔ should start at 0
-    ✔ should increase by one
-    ✔ should reset to zero
+  Counter  
+    ✔ should start at 0  
+    ✔ should increase by one  
+    ✔ should reset to zero  
 
   3 passing (6ms)
