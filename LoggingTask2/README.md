@@ -41,7 +41,7 @@ GET /counter-reset
 
 
 ## Logging
-The application uses Winston for logging.
+The application uses Winston for logging.  
 Logs are written to:
 - logs/combined.log (all logs)
 - logs/error.log (error logs only)
