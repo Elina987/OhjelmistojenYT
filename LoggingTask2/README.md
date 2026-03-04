@@ -6,7 +6,8 @@ This project implements a simple REST API counter application using Express.
 The counter supports:
 - Increasing value
 - Reading current value
-- Resetting value   
+- Resetting value
+   
 These are logged using Winston
 
 ## Tehcnologies Used 
@@ -14,7 +15,7 @@ These are logged using Winston
 -	Express 4.18.2.
 -	Winston 3.11.0
 -	Mocha 11.7.5
--	
+  
 ## Installation
 Make sure you have Node.js
 Clone the repository and install dependencies:
