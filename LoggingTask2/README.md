@@ -6,7 +6,7 @@ This project implements a simple REST API counter application using Express.
 The counter supports:
 - Increasing value
 - Reading current value
-- Resetting value 
+- Resetting value   
 These are logged using Winston
 
 ## Tehcnologies Used 
