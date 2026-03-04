@@ -19,14 +19,26 @@ These are logged using Winston
 ## Installation
 Make sure you have Node.js  
 Clone the repository and install dependencies:  
+▶️ cd OhjelmistojenYT/LoggingTask2
 ▶️ npm install
 
 ## Running the Application
 Start the server:  
-▶️ Node src/main.js  
+▶️ node src/main.js  
 
-The sever runs at:  
+The server runs at:  
 http://localhost:3000
+
+## Endpoints
+GET /counter-increase  
+→ Increases counter value by 1  
+
+GET /counter-read  
+→ Returns current counter value  
+
+GET /counter-reset  
+→ Resets counter to 0 
+
 
 ## Logging
 The application uses Winston for logging.
@@ -35,16 +47,16 @@ Logs are written to:
 - logs/error.log (error logs only)
 example from the combined log:
 
-{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T21:12:06.745Z"}  ✨ increases the value ✨  
+{"level":"info","message":"[ENDPOINT] GET '/counter-increase'","timestamp":"2026-03-04T21:12:06.745Z"}  
 {"level":"info","message":"[COUNTER] increase 1","timestamp":"2026-03-04T21:12:06.746Z"}  
-{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T21:12:10.339Z"} ✨ Reads the current value ✨  
+{"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T21:12:10.339Z"} 
 {"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T21:12:10.339Z"}  
-{"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T21:12:15.231Z"} ✨ Resets the value to zero ✨  
+{"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T21:12:15.231Z"}   
 {"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:12:15.231Z"}  
 
 ## Testing
 
-If you want to test Mocha, run:  
+Run tests using:  
 ▶️ npm test
 
 Example output: 
