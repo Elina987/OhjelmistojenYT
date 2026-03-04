@@ -18,12 +18,12 @@ These are logged using Winston
   
 ## Installation
 Make sure you have Node.js
-Clone the repository and install dependencies:
-npm install
+Clone the repository and install dependencies:  
+▶️ npm install
 
 ## Running the Application
-Start the server:
-Node src/main.js
+Start the server:  
+▶️ Node src/main.js
 The sever runs at:
 http://localhost:3000
 
