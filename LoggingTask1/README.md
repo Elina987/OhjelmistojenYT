@@ -24,6 +24,9 @@ Change directory ▶️ cd OhjelmistojenYT/LoggingTask1
 Install dependencies  
 ▶️ npm install 
 
+## Start the application
+▶️ node src/main.js 
+
 ## Logging
 The application uses Winston for logging. 
 Logs are written to:  
