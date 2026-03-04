@@ -19,7 +19,7 @@ These are logged using Winston
 ## Installation
 Make sure you have Node.js  
 Clone the repository and install dependencies:  
-▶️ git clone https://github.com/Elina987/OhjelmistojenYT.git
+▶️ git clone https://github.com/Elina987/OhjelmistojenYT.git  
 ▶️ cd OhjelmistojenYT/LoggingTask2  
 ▶️ npm install
 
