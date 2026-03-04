@@ -18,8 +18,11 @@ Purpose of the task:
 Make sure Node.js is installed:  
 ▶️ node -v
 
-Clone the repository  
-Change directory ▶️ cd OhjelmistojenYT/LoggingTask1 
+Clone the repository:  
+▶️ git clone https://github.com/Elina987/OhjelmistojenYT.git
+
+Change directory  
+▶️ cd OhjelmistojenYT/LoggingTask1 
 
 Install dependencies  
 ▶️ npm install 
