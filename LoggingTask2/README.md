@@ -52,7 +52,7 @@ example from the combined log:
 {"level":"info","message":"[ENDPOINT] GET '/counter-read'","timestamp":"2026-03-04T21:12:10.339Z"} 
 {"level":"info","message":"[COUNTER] read 1","timestamp":"2026-03-04T21:12:10.339Z"}  
 {"level":"info","message":"[ENDPOINT] GET '/counter-reset'","timestamp":"2026-03-04T21:12:15.231Z"}   
-{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:12:15.231Z"}  
+{"level":"info","message":"[COUNTER] zeroed 0","timestamp":"2026-03-04T21:12:15.231Z"}    
 
 ## Testing
 
